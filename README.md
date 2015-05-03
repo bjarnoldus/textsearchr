@@ -19,9 +19,9 @@ How it works
 -------------
 Download, compile and install the app. To use the app, you need to copy an SMS database to the app. See: https://www.textsearchr.com/tutorial/importing_imessage_database_osx/ 
 
-App store
+App store availability
 -------------
-The app is not available in the app store. It has been refused as Apple does not allow third party apps reading the SMS database. Even if the database is copied from your own backup as described by the tutorial.
+Textsearchr is not available in the app store. This app has been refused as Apple does not allow third party apps reading the SMS database. Even if the database is copied from your own backup as described by the tutorial.
 
 
 

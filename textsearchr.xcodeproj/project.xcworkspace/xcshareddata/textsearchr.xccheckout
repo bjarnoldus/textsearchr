@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>69DD6A44-45A8-4A5D-9019-12EEA7B8D398</string>
+	<key>IDESourceControlProjectName</key>
+	<string>textsearchr</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2FF02834277452E3FE284EB8779EC1E5528A2C55</key>
+		<string>https://git.repleo.nl/git/repos/textsearchr.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>textsearchr/textsearchr.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2FF02834277452E3FE284EB8779EC1E5528A2C55</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.repleo.nl/git/repos/textsearchr.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2FF02834277452E3FE284EB8779EC1E5528A2C55</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2FF02834277452E3FE284EB8779EC1E5528A2C55</string>
+			<key>IDESourceControlWCCName</key>
+			<string>textsearchr</string>
+		</dict>
+	</array>
+</dict>
+</plist>
